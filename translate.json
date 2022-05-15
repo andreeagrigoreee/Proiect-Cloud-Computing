@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cogent-bison-350217",
+  "private_key_id": "42a532c7d48de2d65a3bd8bd25f9c1d14464cc51",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDH/C7Yv3JICLce\nH/amnYHRa7gqQSEbtzXBtZ71zwHYjLCsoKL/5DkdnhEGlRIZoHgBi7vhdeH9AbhY\n4A9DdJcPN1TvOEn0eefuXdNRAiqUxPNDhPmj938vMdw1Bllsd8TcRWb2U/OZySOi\n/13T4LWXYnVVNzuaZ9wmw0zchKvF6OM5dElfTlF9LcoyliZPybJpwVuzaCyE7CWH\nxETFLQ7HeICB0HLceeGrJcetwhY7W8A3EkyB2afBrmZ0+FK75gxYJ5oV/eFYgvJ2\nEUqOVsAd0uMJwRj/v6lfdTXvG7YSenNYLnXcYnD12FP5f+VYTnqJzdIcIX5tAe8v\nI2+Pt3YBAgMBAAECggEAEVRR/uhAD+vpakvcxL1bVXlfIRI5uzwaBWomlyhUAZ7X\nZG4bEc+F/4IF+asLQXs9Suz/396mMZVnkxP/XpoIyQHDc2NOTUgPCAHLYPauF+wl\nJFGujD3TIJTSfynIr/SE8410CZ5muonKc8JrMAQF2FNo1XSOzqd3VUiRLX61n9WS\nO5tT/txMoPd0WuFemm2Km9OWWRAzFLrjI6Xt7FN+wwovJITfRNTrlhsn0nxlpDkD\nTuuOS296w4SqKUTvfZgpXScwgL5cyHhu5YzL+JJcjtfJ8nIskMszXBRldWH8i6P9\nzQ1B0yJP8RER5Sns+RIXZWqdM80cmIazP1na2rNWfQKBgQDk9TLQtoDwAcIF4HZt\ndMZXDDkXyFwSgdYQ/QdzTrOHbJqd5kT+w0A4PkKBSF/Qoz7odNOLHQrdterrTeBo\nvu/yPkzOZHhF2De4SZRybByA/ezWKKVNxrBd3+ad15MorUylTTTdhAyIzK69wP1B\nMgrXEh4txGR0xThGQ+uK2Tr4BwKBgQDfmvYSuozC7fYZDZJ4RHHjK3yJfWRbyNiw\nfSp31eMCFEbGOLt4tbqRLAgbc9gZ1xpLY0Vq1/4/bhrykXlW1BdIERWjcQVV8+j8\nJY82d1IKx4eHzCREns/oZ0VRSKYU9nE44GsbpAQWFBw+zaM6CQFlu3vGIf2phQTb\noTHvDkpPtwKBgHRUKLdmouhO3FfEDifa1xNPQIrW4AD/OtZy2SA68nhyM7TaVF/k\nsHJjH8M0FIqbBtFw2jKqVOUFExDvBn/x01QPV1LeNUW3b8gQin4AdBMN8RF2oVZ9\nBwsLQc8cwsY+Ft099wg9mWjAJmB+963yUROpPvAeArRZqBf7Vme7q3xtAoGAVXpq\niRxRRQ8sncUncdxQYRQ1pmWN4Nx1oXonqunTvu67Y3k6iVmHOYnIi54MRUyKW7lW\nRxLMubjAimv8I6ouQDlvuSwyavoz3XgKODsC3OYLtGjgkG7ZcbFQuVL5UlgnTiPU\nLhvUCBCl/4gi1sOsihRSq5pA2vXjtoX3jbg7xh8CgYAhHmKWbqtrafo3WqxTLb2A\n659JJ5DlHwH3SWXsdFmYwY0yuhrqYXLOGq1Ag5o8z/YpB6FLO/WuOZlqlaFy+7Me\n3qOoiAhCtJ9hA3R8wCwOBsmbQOCOFc8dVMpMflhSV4qexysSLUh3S6iW/4HIMLAR\nyXy9NK6uLaxPVkc5H1qW2A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "translate-usage@cogent-bison-350217.iam.gserviceaccount.com",
+  "client_id": "109178351744362986423",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translate-usage%40cogent-bison-350217.iam.gserviceaccount.com"
+}
