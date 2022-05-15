@@ -61,8 +61,8 @@ De asemenea, am primit pe mail mesajul trimis, tradus in toate limbile straine d
 ![image](https://user-images.githubusercontent.com/72661360/168490052-9931a082-4399-4a4e-b13f-a4a2f479e190.png)
 
 ## Linkuri 
-Github BackEnd: https://github.com/andreeagrigoreee/Proiect-Cloud-Computing-BackEnd
-Github FrontEnd: https://github.com/andreeagrigoreee/Proiect-Cloud-Computing-FrontEnd
-Deployment Heroku: https://salty-tundra-99023.herokuapp.com/
-Youtube video: https://youtu.be/anjsxEUrVq0
+Github BackEnd: https://github.com/andreeagrigoreee/Proiect-Cloud-Computing-BackEnd 
+Github FrontEnd: https://github.com/andreeagrigoreee/Proiect-Cloud-Computing-FrontEnd 
+Deployment Heroku: https://salty-tundra-99023.herokuapp.com/ 
+Youtube video: https://youtu.be/anjsxEUrVq0 
 
