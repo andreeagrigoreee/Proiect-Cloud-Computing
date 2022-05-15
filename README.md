@@ -33,7 +33,36 @@ Stergerea unui mesaj dupa id
 Putem observa ca mesajul cu id-ul 19 a fost sters din baza de date 
 ![image](https://user-images.githubusercontent.com/72661360/168489870-d1fc18d0-703b-4803-87a3-44e08cbfddb9.png)
 
+## PUT 
+Metoda utilizata pentru a actualiza un mesaj dupa id. 
+![image](https://user-images.githubusercontent.com/72661360/168489916-3719016d-43dc-4229-9258-e968b4e2c15a.png)
+![image](https://user-images.githubusercontent.com/72661360/168489921-321af5b6-af76-4b77-9193-eeeed834d320.png)
+<img width="515" alt="image" src="https://user-images.githubusercontent.com/72661360/168489943-2a47bfc6-46be-4bf4-b256-3392cf3839d4.png">
+Observam ca mesajul cu id-ul 2 a fost actualizat:
+![image](https://user-images.githubusercontent.com/72661360/168489960-511e0712-a1fc-42f9-899a-8242a05954c8.png)
 
+## POST 
+Am folosit aceasta metoda pentru a introduce noi mesaje in baza de date:
+![image](https://user-images.githubusercontent.com/72661360/168489979-973f2946-8e8c-4890-9b4f-37584eaa3974.png)
+Putem observa ca ultimul mesaj este cel cu id-ul 18, asadar vom mai introduce un mesaj 
+![image](https://user-images.githubusercontent.com/72661360/168489995-d814c052-6890-4b0d-a8e1-e8a1ff8bf4e9.png)
+![image](https://user-images.githubusercontent.com/72661360/168490001-d5d03740-9730-44af-930b-6c3a7fb5d588.png)
+Un nou mesaj cu id-ul 20 a fost introdus, deoarece cel cu id-ul 19 a fost sters la demostrarea metodei DELETE. 
+![image](https://user-images.githubusercontent.com/72661360/168490008-f7460457-b827-470a-bf3a-4a7574e4cfe9.png)
+Front-endul aplicatiei, pagina de start 
+![image](https://user-images.githubusercontent.com/72661360/168490017-d78e4be6-35bb-451a-9212-05e66490dd24.png)
+Introducem numele expeditorului, adresa de email a destinatarului si mesajul pe care vrem sa-l traducem si sa-l trimitem
+![image](https://user-images.githubusercontent.com/72661360/168490024-3c470876-af8a-4702-b7c8-daea2350127b.png)
+Apasand butonul ALL, primim o alerta care ne transmite care a fost limba initiala a mesajului, cat si traducerile acestuia in toate limbile disponibile.
+![image](https://user-images.githubusercontent.com/72661360/168490039-e6a8d8f9-3d0d-4fec-ac73-0181157a7f2c.png)
+Dupa ce am dat refresh la aplicatie, putem observa ca baza de date a fost actualizata si ne este afisat ultimul mesaj transmis 
+![image](https://user-images.githubusercontent.com/72661360/168490042-409ead70-f637-4e5b-a5c2-437643d45c09.png)
+De asemenea, am primit pe mail mesajul trimis, tradus in toate limbile straine disponibile. 
+![image](https://user-images.githubusercontent.com/72661360/168490052-9931a082-4399-4a4e-b13f-a4a2f479e190.png)
 
-
+## Linkuri 
+Github BackEnd: https://github.com/andreeagrigoreee/Proiect-Cloud-Computing-BackEnd
+Github FrontEnd: https://github.com/andreeagrigoreee/Proiect-Cloud-Computing-FrontEnd
+Deployment Heroku: https://salty-tundra-99023.herokuapp.com/
+Youtube video: https://youtu.be/anjsxEUrVq0
 
