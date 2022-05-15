@@ -138,6 +138,8 @@ router.post("/foreign", async (req, res) => {
 
     try {
         if (LANGUAGE_ISO_CODE[language]) {
+            const originalLanguageResponse = await detectLanguage(messageContent);
+            translationData.originalLanguage = originalLanguageResponse[0]?.language;
             const translatedText = await translateText(
                 messageContent,
                 LANGUAGE_ISO_CODE[language]
@@ -146,7 +148,8 @@ router.post("/foreign", async (req, res) => {
         }
         else if (language === "ALL") {
             const availableLanguages = Object.values(LANGUAGE_ISO_CODE);
-
+            const originalLanguageResponse = await detectLanguage(messageContent);
+            translationData.originalLanguage = originalLanguageResponse[0]?.language;
             const translatedAnswersArray = await Promise.all(
                 availableLanguages.map(async (language) => {
                     const translatedText = await translateText(messageContent, language);
