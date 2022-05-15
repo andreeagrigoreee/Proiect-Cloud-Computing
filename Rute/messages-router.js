@@ -100,7 +100,7 @@ router.put("/:id", (req, res) => {
         })
     }
 
-    connection.query(`UPDATE  messages SET  senderName=${mysql.escape(senderName)},senderMail=${mysql.escape(senderMail)},receiverMail=${mysql.escape(receiverMail)},messageContent=${mysql.escape(messageContent)}`, (err, results) => {
+    connection.query(`UPDATE  messages SET  senderName=${mysql.escape(senderName)},senderMail=${mysql.escape(senderMail)},receiverMail=${mysql.escape(receiverMail)},messageContent=${mysql.escape(messageContent)} WHERE entryID = ${mysql.escape(id)}`, (err, results) => {
         if (err) {
             console.log(err);
             return res.send(err);
